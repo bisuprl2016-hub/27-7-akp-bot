@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Fhaa.aternos.me",
-    "port": 26455,
+    "ip": "FhaaSmp.aternos.me",
+    "port": 56239,
     "version": "1.16.5",
     "try-creative": false
   },
