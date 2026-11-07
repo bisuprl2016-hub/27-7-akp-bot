@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Fhaaa",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "FhaaSmp.aternos.me",
-    "port": 56239,
-    "version": "1.16.5",
+    "ip": "sphinxron.aternos.me",
+    "port": 15158,
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
@@ -32,8 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Subscribe to Your_Paradox!",
       ]
     },
     "chat-log": true,
